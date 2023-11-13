@@ -1,0 +1,27 @@
+//Marie Ballenger
+//CIS 35a 23382
+//Lab 4
+//Due November 13 2023
+//Date Submitted November 12 2023
+
+
+------------------------------------------
+Run 1:
+Would you like to sign up for ShipFacts?
+no
+Since ShipFacts is spam we don't care how you responded.  We provide Ship Facts regardless.
+Your random Ship Fact is that Big Cargo Ship's size is 300feet and its home port is Panama City. It can hold 1200 containers.
+
+------------------------------------------
+Run 2:
+Would you like to sign up for ShipFacts?
+
+Since ShipFacts is spam we don't care how you responded.  We provide Ship Facts regardless.
+Your random Ship Fact is that Big Cruise Ship's size is 100 feet and its home port is Trinidad. It is operated by Happy Cruising.
+
+------------------------------------------
+Run 3:
+Would you like to sign up for ShipFacts?
+sure
+Since ShipFacts is spam we don't care how you responded.  We provide Ship Facts regardless.
+Your random Ship Fact is that Big Cruise Ship's size is 100 feet and its home port is Trinidad. It is operated by Happy Cruising.
